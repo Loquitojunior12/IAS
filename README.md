@@ -6,7 +6,8 @@
 
 # Artificial-Intelligence-Projects
 
-Collection of Artificial Intelligence projects realised by me. Some of these topics have been covered in my personal blog: <br>
+Collection of Artificial Intelligence projects realised by me. Some of these topics have been covered in my personal blog:
+This project is tested with BrowserStack<br>
 
 1. [Probability Distributions In Data Science](https://pierpaolo28.github.io/blog/blog19/)
 2. [Getting Started With Augmented And Virtual Reality](https://pierpaolo28.github.io/blog/blog17/)
